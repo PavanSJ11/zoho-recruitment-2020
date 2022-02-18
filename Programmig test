@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class Triangle
+{
+public static void main(String[]args)
+{
+Scanner s=new Scanner(System.in);
+System.out.println(" Enter the String")
+String str=s.next();
+for(int i=0;i<str.length()-1;i++)
+{
+for(int j=str.length-1;j>=0;j--)
+{
+System.out.print(" ");
+}
+for(int k=1;k<=i;k++)
+{
+System.out.print(str(index(str.length()-1));
+}
+System.out.println();
+}
+
+}
+}
